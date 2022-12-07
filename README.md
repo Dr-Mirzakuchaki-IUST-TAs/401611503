@@ -1,4 +1,4 @@
-# 401611503-LTC2369-18 Setup
+# LTC2369-18 Setup
 
 Year: 2022  
 Course: VHDL  
