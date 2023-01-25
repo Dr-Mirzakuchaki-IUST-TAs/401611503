@@ -1,0 +1,2 @@
+vhdl isim_temp "SPI_LTC2369_18.vhd"
+vhdl isim_temp "SPI_LTC2369_18_tb.vhd"

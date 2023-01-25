@@ -1,0 +1,2 @@
+vhdl work "SPI_LTC2369_18.vhd"
+vhdl work "SPI_LTC2369_18_tb.vhd"

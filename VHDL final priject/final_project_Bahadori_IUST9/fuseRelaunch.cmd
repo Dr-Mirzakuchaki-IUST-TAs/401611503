@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/ISE/final_project_Bahadori_IUST9/SPI_LTC2369_18_tb_isim_beh.exe" -prj "E:/ISE/final_project_Bahadori_IUST9/SPI_LTC2369_18_tb_beh.prj" "work.SPI_LTC2369_18_tb" 

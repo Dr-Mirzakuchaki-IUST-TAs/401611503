@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/ISE/final_project_Bahadori_IUST9/SPI_LTC2369_18.xst" -ofn "E:/ISE/final_project_Bahadori_IUST9/SPI_LTC2369_18.syr" 
