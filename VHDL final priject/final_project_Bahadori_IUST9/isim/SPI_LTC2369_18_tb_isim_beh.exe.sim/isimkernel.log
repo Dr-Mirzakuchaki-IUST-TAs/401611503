@@ -1,0 +1,28 @@
+Command line:
+   SPI_LTC2369_18_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49759
+
+Tue Jan 24 16:17:13 2023
+
+
+ Elaboration Time: 0.203125 sec
+
+ Current Memory Usage: 366.445 Meg
+
+ Total Signals          : 25
+ Total Nets             : 56
+ Total Signal Drivers   : 16
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 10
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 559
+
+ Total Simulation Time: 2.46875 sec
+
+ Current Memory Usage: 366.445 Meg
+
+Tue Jan 24 16:31:03 2023
+
